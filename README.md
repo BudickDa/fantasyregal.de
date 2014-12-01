@@ -1,4 +1,4 @@
 fantasyregal.de
 ===============
 
-Work in Progress
+Wir haben eine Meteor-Applikation erstellt.
